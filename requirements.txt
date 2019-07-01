@@ -1,0 +1,4 @@
+--index-url=https://www.piwheels.org/simple
+RPi.GPIO 
+gpiozero
+picamera
