@@ -34,7 +34,11 @@ docker run \
 Publish
 -------
 ```
-To be Published ...
+docker tag naturebytes-capture-simple \
+   antelopeit/naturebytes-capture-simple:stretch-python35-0.1
+
+docker push antelopeit/naturebytes-capture-simple:stretch-python35-0.1
+
 ```
 
 Future
